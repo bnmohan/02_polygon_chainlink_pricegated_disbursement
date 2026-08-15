@@ -1,6 +1,6 @@
 # 📈 Chainlink Price-Gated Disbursement Escrow
 
-[![Base Sepolia](https://img.shields.io/badge/Network-Polygon_Amoy-blue?logo=ethereum)](#)
+[![Polygon Amoy](https://img.shields.io/badge/Network-Polygon_Amoy-purple?logo=polygon)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-lightgrey?logo=solidity)](https://soliditylang.org/)
 [![Foundry](https://img.shields.io/badge/Framework-Foundry-orange)](https://getfoundry.sh/)
 [![Chainlink](https://img.shields.io/badge/Oracles-Chainlink_Price_Feeds-blue?logo=chainlink)](https://chain.link)
@@ -122,4 +122,4 @@ Open **[http://localhost:8000](http://localhost:8000)** in Google Chrome, connec
 ---
 
 ## 📜 License
-MIT License. Built with ❤️ for ETHGlobal and the Polygon/Base Ecosystem.
+MIT License. Built with ❤️ for the Polygon Ecosystem.
