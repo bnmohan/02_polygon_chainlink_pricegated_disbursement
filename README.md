@@ -122,9 +122,9 @@ forge script script/Deploy.s.sol:DeployScript --rpc-url $POLYGON_AMOY_RPC_URL --
 ```bash
 # Serve frontend folder via HTTP
 cd frontend
-python3 -m http.server 8000
+python3 -m http.server 8002
 ```
-Open **[http://localhost:8000](http://localhost:8000)** in Google Chrome, connect MetaMask to Polygon Amoy, and interact with the price-gated dashboard!
+Open **[http://localhost:8002](http://localhost:8002)** in Google Chrome, connect MetaMask to Polygon Amoy, and interact with the price-gated dashboard!
 
 ---
 
